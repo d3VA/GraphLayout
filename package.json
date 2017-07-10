@@ -1,0 +1,8 @@
+{
+  "name": "GraphLayout",
+  "description": "A graph layout component for BitQuery VA-App: overview. Creates graph layout which visualizes selected data.",
+  "author": "Jim Vallandingham, Svetlana Bykovskaya <bykovskaya.svetlana@gmail.com>, Lukas Borke <lukas@borke.net>",
+  "license": "Apache License 2.0",
+  "version": "0.8.0",
+  "main": "GraphLayout.js"
+}
